@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.1.16",
     "archiver": "^7.0.1",
     "crypto-js": "^4.2.0",
     "nanoid": "^5.1.6",
